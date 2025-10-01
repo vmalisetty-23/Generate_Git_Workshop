@@ -1,1 +1,2 @@
-And the end of the day, its night
+And the end of the day, its night. Testing merge conflict
+
